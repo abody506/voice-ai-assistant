@@ -1,0 +1,7 @@
+﻿node_modules
+.next/
+.env
+.env.local
+.DS_Store
+voice-ai-assistant/node_modules
+voice-ai-assistant/.next/
